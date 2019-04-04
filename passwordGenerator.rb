@@ -26,4 +26,3 @@ while !happy
         end
     end
 end
-
